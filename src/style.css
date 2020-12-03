@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    background-color: #F8F8F8;
+}
+
+.main-block {
+    width: 35em;
+    margin: auto;
+}
+
+fieldset {
+    margin: 0.1em;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 3px;
+    border-color: #1b4376;
+}
+
+.input-text {
+    width: 24em;
+    height: 2em;
+    padding: 0 0.7em;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: #403696;
+}
+
+.input-checkbox {
+    border: 2px solid;
+    border-color: #403696;
+    cursor: pointer;
+}
+
+button {
+    width: 10em;
+    height: 2em;
+    color: #fff;
+    background-color: #403696;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: black;
+    background-color: #a7a6ff;
+    border: none;
+}
+
+button:active,
+button:focus {
+    outline: none;
+}
+
+button::-moz-focus-inner {
+    border: 0;
+}
+
+.data {
+    margin: 0.1em;
+    background-color: #fff;
+    border: 2px solid;
+    border-radius: 3px;
+    border-color: #1b4376
+}
+
+ul {
+    font-size: 14px;
+    color: #fff;
+}
+
+li {
+    list-style: none;
+    color: black;
+}
