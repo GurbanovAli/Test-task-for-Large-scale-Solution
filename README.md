@@ -2,9 +2,9 @@
 
 #### Description: This task I made for company "Масштабные решения".
 #### Work time: 6 hours. Spend time for Html and CSS 1-2 hour, for functionality (used JS) 4 hours.
-#### Public link the task: 
+#### Public link the task: https://gurbanovali.github.io/Test-task-for-Large-scale-Solution/
 
-#### Requirement for task : Тестовое задание
+#### Requirement for task : 
 #### Сделать страницу, на которой будет:
 #### · поле для ввода;
 #### · checkbox;
